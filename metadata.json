@@ -1,0 +1,6 @@
+{
+  "name": "Ingliz Tili Akademiyasi",
+  "description": "Ingliz tilini interaktiv darslar, tushunarli grammatika qo'llanmalari va qiziqarli o'yinlar orqali o'rganish platformasi. Sun'iy intellekt (AI) yordamchisi bilan suhbatlashish va so'zlarni mashq qilish tizimi mavjud.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
